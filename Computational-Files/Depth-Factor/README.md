@@ -12,6 +12,8 @@ The detail development of the ML model can be accessed in
 The notebook also provides a conclusive formula for the interpolation, which could be
 an equivalent approach to the use of ML. While the ML model can be accessed and downloaded
 [here](/Computational-Files/Depth-Factor/depth_factor.joblib).
+A related document to this directory is a report located on
+[this directory](/Engineering-Reports/Technical_Justification__Settlement_Transmission_Towers.pdf).
 
 ## Reference
 

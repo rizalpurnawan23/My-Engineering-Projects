@@ -45,7 +45,7 @@ of bored piles but does not explicitly present the computational process to keep
 the original SPT data. This document is intended for a portfolio and to demonstrate the competency and
 experience of the author in the corresponding problem solving.
 
-## 7. [Technical Justification: Settlement Analysis of TransmissionTowers](/Engineering-Reports/Technical_Justification__Settlement_Transmission_Towers.pdf)
+## 7. [Technical Justification: Settlement Analysis of Transmission Towers](/Engineering-Reports/Technical_Justification__Settlement_Transmission_Towers.pdf)
 
 This document covers a presentation related to a technical justification in determining the
 total settlements of transmission towers in Smelter Ferronickel Kolaka, a project handled by PT.

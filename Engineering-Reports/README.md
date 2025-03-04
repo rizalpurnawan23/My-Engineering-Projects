@@ -55,7 +55,7 @@ author is the use of machine learning (ML) algorithm for interpolating the depth
 In addition, this document is intended as a portfolio that demonstrates the
 competency and experience of the author in the corresponding problem solving.
 
-## 8. [Warehouse Roof Evaluation for Solar PV Installation](/Engineering-Reports/Warehouse Roof Evaluation for Solar PV Installation.pdf)
+## 8. [Warehouse Roof Evaluation for Solar PV Installation](/Engineering-Reports/Warehouse_Roof_Evaluation_for_Solar_PV_Installation.pdf)
 
 This work discusses an evalutation of a steel structure warehouse building of a factory subjected to an
 additional load for Solar PV installation on its roof structure. The method employed in this project is

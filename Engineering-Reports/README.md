@@ -54,3 +54,11 @@ demonstrates the methodology and framework for the task. A key innovation employ
 author is the use of machine learning (ML) algorithm for interpolating the depth factor for immediate settlements.
 In addition, this document is intended as a portfolio that demonstrates the
 competency and experience of the author in the corresponding problem solving.
+
+## 8. [Warehouse Roof Evaluation for Solar PV Installation](/Engineering-Reports/Warehouse Roof Evaluation for Solar PV Installation.pdf)
+
+This work discusses an evalutation of a steel structure warehouse building of a factory subjected to an
+additional load for Solar PV installation on its roof structure. The method employed in this project is
+a conventional method incorporating structural engineering software SAP2000 for structural modelling with
+an evaluation on the structural stability, capacity and servicability. This project is one of my past
+freelance projects in structural engineering.
